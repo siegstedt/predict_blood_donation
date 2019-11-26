@@ -15,8 +15,9 @@ This project works with data collected from the donor database of Blood Transfus
 * Training the linear regression model
 
 ## Tech stack
-* Python
-* TPOT library
+* Python 3
 * Pandas
+* scikit-learn
+* TPOT library
 
-_The project is based on a datacamp assignment published by Dimitri Denisjonok.
+_The project is based on a datacamp assignment published by Dimitri Denisjonok._
